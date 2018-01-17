@@ -1,0 +1,39 @@
+{
+  "dogs": [
+    {
+      "id": 2,
+      "name": "AKITA",
+      "img": "https://dog.ceo/api/img/akita/Akita_Inu_dog.jpg"
+    },
+    {
+      "id": 3,
+      "name": "CHIHUAHUA",
+      "img": "https://dog.ceo/api/img/chihuahua/n02085620_8578.jpg"
+    },
+    {
+      "id": 4,
+      "name": "LHASA",
+      "img": "https://dog.ceo//api//img//lhasa//n02098413_3033.jpg"
+    },
+    {
+      "id": 5,
+      "name": "MINIATURE SCHNAUZER",
+      "img": "https://dog.ceo//api//img//schnauzer//n02097209_920.jpg"
+    },
+    {
+      "id": 6,
+      "name": "MALINOIS",
+      "img": "http://www.workingmalinois.org/images/header/fall//AWMA8.png"
+    },
+    {
+      "id": 7,
+      "name": "HUSKY",
+      "img": "https://vignette.wikia.nocookie.net/animal-jam-clans-1/images/b/bc/Marmalade_husky_oc.jpg/revision/latest?cb=20170416170512"
+    },
+    {
+      "id": 8,
+      "name": "HUSKY",
+      "img": "https://i.pinimg.com/736x/bc/be/e6/bcbee6931f71db0d1629355bd61fe8cd--wolves-mans.jpg"
+    }
+  ]
+}
