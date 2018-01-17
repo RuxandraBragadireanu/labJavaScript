@@ -1,6 +1,11 @@
 {
   "dogs": [
     {
+      "id": 1,
+      "name": "AKITA",
+      "img": "https://dog.ceo/api/img/akita/Akita_Inu_dog.jpg"
+    },
+    {
       "id": 2,
       "name": "AKITA",
       "img": "https://dog.ceo/api/img/akita/Akita_Inu_dog.jpg"
